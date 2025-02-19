@@ -62,6 +62,7 @@ export type Series =
   | '5070ti'
   | '5080'
   | '5090'
+  | '7900xtx'
   | 'a3-matx'
   | 'arc'
   | 'darkhero'

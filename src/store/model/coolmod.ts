@@ -88,6 +88,10 @@ export const Coolmod: Store = {
         series: '3090',
         url: 'https://www.coolmod.com/tarjetas-graficas/appliedfilters/8557',
       },
+      {
+        series: '7900xtx',
+        url: 'https://www.coolmod.com/tarjetas-graficas/serie-rx-7900-xtx/#list-category-products',
+      },
     ],
   },
 };
