@@ -167,19 +167,19 @@ export const GameES: Store = {
     {
       brand: 'gigabyte',
       model: 'gaming oc',
-      series: '7900xtx',
+      series: 'rx7900xtx',
       url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/GIGABYTE-RADEON-RX-7900-XTX-GAMING-OC-24GB-GDDR6-TARJETA-GRAFICA-GAMING/V1GXVC',
     },
     {
       brand: 'asus',
       model: 'tuf oc',
-      series: '7900xtx',
+      series: 'rx7900xtx',
       url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/ASUS-TUF-GAMING-RADEON-RX-7900-XTX-24GB-GDDR6-TARJETA-GRAFICA-GAMING/V1GSD7',
     },
     {
       brand: 'powercolor',
       model: 'red devil',
-      series: '7900xtx',
+      series: 'rx7900xtx',
       url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/POWERCOLOR-RED-DEVIL-RADEON-RX-7900-XTX-24G-E-OC-24GB-GDDR6-TARJETA-GRAFICA-GAMING/V1GP4Z',
     },
   ],

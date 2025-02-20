@@ -527,19 +527,19 @@ export const PCComponentes: Store = {
     {
       brand: 'asus',
       model: 'tuf oc',
-      series: '7900xtx',
+      series: 'rx7900xtx',
       url: 'https://www.pccomponentes.com/asus-tuf-gaming-radeon-rx-7900-xtx-oc-edition-24gb-gddr6',
     },
     {
       brand: 'sapphire',
       model: 'nitro+ oc',
-      series: '7900xtx',
+      series: 'rx7900xtx',
       url: 'https://www.pccomponentes.com/sapphire-nitro-vapor-x-amd-radeon-rx-7900-xtx-gaming-oc-24gb-gddr6',
     },
     {
       brand: 'sapphire',
       model: 'nitro+',
-      series: '7900xtx',
+      series: 'rx7900xtx',
       url: 'https://www.pccomponentes.com/sapphire-pulse-amd-radeon-rx-7900-xtx-24gb-gddr6',
     },
     {
